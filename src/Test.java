@@ -6,7 +6,7 @@
 import java.util.Arrays;
 /**
  * comparing Samusort with Arrays.sort.
- * Samusort seems to end up being about faster on random data with large data sets, but runs the system out of memory at around .
+ * Samusort seems to end up being about faster on random data with large data sets, but runs the system out of memory at around 1000000000 (1 bil) integers on my PC.
  * @author samuelmcfadden
  *
  */
